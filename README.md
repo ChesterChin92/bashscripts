@@ -7,4 +7,4 @@ Sample Usage for poll_exer
 ./poll_exer.sh -f polltxt -p 5 -d timer -d eth -d ahci
 
 Sample Usage for poll_exer_v2
-./poll_exer.sh -p 6 -d timer -d wifi -d eth -d usb -f mypolls
+./poll_exer_v2.sh -p 6 -d timer -d wifi -d eth -d usb -f mypolls
